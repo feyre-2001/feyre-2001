@@ -2,6 +2,7 @@
 
 - Hi, I'm Niharika Kabra, a machine learning-data science enthusiast and a competitive coder-currently, honing my skills as a beginner web developer. 
 - Looking to collaborate on projects involving WebDev, ML.
+- 📫 How to reach me: kabraniharika7@gmail.com
 
 &nbsp;
 
@@ -20,6 +21,7 @@
 - Love travelling 🏝️🗻, music🎧  and new experiences.
 <br />
 <br />
+**Reach me at:**
 <a href="https://www.linkedin.com/in/niharika-kabra-748464197/">
   <img alt="Niharika Kabra|LinkedIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
