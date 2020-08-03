@@ -19,9 +19,8 @@
 - Anime lover
 - K-Drama fan
 - Love travelling 🏝️🗻, music🎧  and new experiences.
-<br />
-<br />
-**Reach me at:**
+&nbsp;
+### Reach me at:
 <a href="https://www.linkedin.com/in/niharika-kabra-748464197/">
   <img alt="Niharika Kabra|LinkedIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
