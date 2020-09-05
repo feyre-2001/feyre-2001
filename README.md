@@ -1,4 +1,4 @@
-![picture alt](https://github.com/feyre-2001/feyre-2001/blob/master/Mountain%20Photography%20Studio%20Facebook%20Cover.png)
+![picture alt](https://github.com/feyre-2001/feyre-2001/blob/master/polo2.png)
 
 - Hi, I'm Niharika Kabra,<bold>a machine learning-data science enthusiast and a competitive coder-currently, honing my skills as a beginner web developer. 
 - Looking to collaborate on projects involving WebDev, ML.
