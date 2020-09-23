@@ -1,35 +1,25 @@
-![picture alt](https://github.com/feyre-2001/feyre-2001/blob/master/polo2.png)
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-- Hi, I'm Niharika Kabra,<bold>a machine learning-data science enthusiast and a competitive coder-currently, honing my skills as a beginner web developer. 
-- Looking to collaborate on projects involving WebDev, ML.
-- 📫 How to reach me: kabraniharika7@gmail.com
+<p align="center">
+  Welcome to my page! I'm Niharika Kabra.
+</p>
 
-&nbsp;
-**Languages and Tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<br />
-<br />
-**⚡ Fun facts:**
-- In love with frontend
-- Anime lover
-- K-Drama fan
-- Love travelling 🏝️🗻, music🎧  and new experiences.
-&nbsp;
-### Reach me at:
-<a href="https://www.linkedin.com/in/niharika-kabra-748464197/">
-  <img alt="Niharika Kabra|LinkedIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/KabraNiharika">
-  <img alt="Niharika Kabra|Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/hellcaster_____/">
-  <img alt="Niharika Kabra|Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://medium.com/@kabraniharika7">
-  <img alt="Niharika Kabra|Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+<div align="center">
+<h3 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  💻 ML Enthusiast| 💻 Coder | 💻 Beginner Developer
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ </h3>
+</div>
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=feyre-2001&&show_icons=true&theme=radical"/>
+ </a>
+ </p>
  
+<h3>Find me at:</h3>
+<p><a href="https://github.com/feyre-2001" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/mo0dy__" target="_blank">
+  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/niharika-kabra-748464197/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@kabraniharika7" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
