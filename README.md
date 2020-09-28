@@ -12,11 +12,13 @@
  </h3>
 </div>
 
+<h3 align="center">Github Usage ~ Status </h3>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=feyre-2001&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=feyre-2001&show_icons=true&hide_border=true&theme=dark&private=true"/>
  </a>
  </p>
+ 
  
 <h3>Find me at:</h3>
 <p><a href="https://github.com/feyre-2001" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/mo0dy__" target="_blank">
